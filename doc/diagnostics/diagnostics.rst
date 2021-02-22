@@ -10,4 +10,5 @@ NorESM2 diagnostics
    esmvaltool.rst
    diag_run.rst
    aero_diag.rst
+   flexpart.rst
   
